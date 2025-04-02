@@ -25,7 +25,7 @@ body {
 
 .image-container img {
     max-width: 100%;
-    max-height: 70vh; /* Limita a altura para telas verticais */
+    max-height: 90vh; /* Limita a altura para telas verticais */
     width: auto;
     height: auto;
     object-fit: contain; /* Garante que a imagem não será distorcida */
